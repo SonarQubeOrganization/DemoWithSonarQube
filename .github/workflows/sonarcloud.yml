@@ -28,4 +28,4 @@ jobs:
         with:
           args:
             -Dsonar.organization=sonar-ley-for-pedro-david
-            -Dsonar.projectKey=DemoWithSonarQube
+            -Dsonar.projectKey=SonarQubeOrganization_DemoWithSonarQube
