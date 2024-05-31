@@ -2,7 +2,10 @@
 
 public interface ICarService
 {
-    public Task<string> GetListOfMechanicalFailuresAsync();
+    public Task<string> getListofMechanicalfailuresAsync();
 
-    public Task GetPerformance();
+    public int GetPerformance(int dependency);
+
+
+
 }
