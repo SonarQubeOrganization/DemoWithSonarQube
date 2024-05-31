@@ -9,6 +9,5 @@ public class CarService : ICarService
 
     public Task GetPerformance()
     {
-        throw new NotImplementedException();
     }
 }
