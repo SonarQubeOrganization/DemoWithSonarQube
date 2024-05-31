@@ -4,7 +4,7 @@ public class MechanicService : IMechanicService
 {
     public Task<string> GetMechanicsAsync()
     {
-        throw new NotImplementedException();
+        return null;
     }
 
     public Task<IList<TypeDocumentation>> GetReportsMechanicAsync()
